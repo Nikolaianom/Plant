@@ -313,7 +313,9 @@ opacity: 0.6;
     align-items: center;
     column-gap: 63px;
     margin-bottom: 24px;
+    padding-left: 42px;
 }
+
 .main__le-content img {
     padding: 22px 0;
 }
